@@ -3,6 +3,7 @@
   "name": "reviung41",
   "layouts": {
     "LAYOUT": {
+      "layout": 
   [
     "Esc",
     {
@@ -177,5 +178,6 @@
     "→"
   ]
 ]
+}
 }
 }
