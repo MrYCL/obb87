@@ -1,4 +1,8 @@
-[
+{
+  "id": "reviung41",
+  "name": "reviung41",
+  "layouts": {
+    "LAYOUT": {
   [
     "Esc",
     {
@@ -173,3 +177,5 @@
     "→"
   ]
 ]
+}
+}
