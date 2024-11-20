@@ -6,3 +6,6 @@ This keyboard uses the "Gatron low profile" switch
 ## Features
 
 - Uses nRF52840 CoreBoard_Micro
+
+# Change your keymap
+https://nickcoutsos.github.io/keymap-editor/
