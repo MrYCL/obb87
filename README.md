@@ -2,6 +2,10 @@
 
 A 80% ANSI keyboard designed by Geepon.
 
+Based on ZMK.
+
+Support Bluetooth & USB doble mode.
+
 This keyboard uses the "Gatron low profile" switch.
 
 With 89 WS2812 RGB lights.
