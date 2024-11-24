@@ -6,7 +6,7 @@ Based on [ZMK](https://github.com/zmkfirmware/zmk).
 
 Support Bluetooth & USB doble mode.
 
-This keyboard uses the "Gatron low profile" switch.
+This keyboard uses the "Gateron low profile" switch.
 
 With 89 WS2812 RGB lights.
 
