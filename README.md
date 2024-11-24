@@ -15,5 +15,5 @@ With 89 WS2812 RGB lights.
 - Uses nRF52840 CoreBoard_Micro
 
 # Change this keymap
-You can fork this reposite and change your keymap [here](https://nickcoutsos.github.io/keymap-editor/).
+You can fork this repositories and change your keymap [here](https://nickcoutsos.github.io/keymap-editor/).
 
