@@ -2,7 +2,7 @@
 
 A 80% ANSI keyboard designed by Geepon.
 
-Based on [ZMK](https://github/zmkfirmwarr/zmk).
+Based on [ZMK](https://github/zmkfirmware/zmk).
 
 Support Bluetooth & USB doble mode.
 
@@ -15,4 +15,5 @@ With 89 WS2812 RGB lights.
 - Uses nRF52840 CoreBoard_Micro
 
 # Change this keymap
-https://nickcoutsos.github.io/keymap-editor/
+You can fork this reposite and change your keymap [here](https://nickcoutsos.github.io/keymap-editor/).
+
