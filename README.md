@@ -2,7 +2,7 @@
 
 A 80% ANSI keyboard designed by Geepon.
 
-Based on ZMK.
+Based on [ZMK](https://github/zmkfirmwarr/zmk).
 
 Support Bluetooth & USB doble mode.
 
