@@ -1,6 +1,6 @@
 # [obb87]
 
-An 80% ANSI keyboard designed by Geepon.
+An 80% ANSI keyboard designed by KipperSun.
 
 Based on [ZMK](https://github.com/zmkfirmware/zmk).
 
