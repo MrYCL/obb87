@@ -4,7 +4,7 @@ An 80% ANSI keyboard designed by KipperSun.
 
 Based on [ZMK](https://github.com/zmkfirmware/zmk).
 
-Support Bluetooth & USB double mode.
+Support Bluetooth & USB double modes.
 
 This keyboard uses the "Gateron low profile" switch.
 
