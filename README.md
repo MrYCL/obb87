@@ -9,7 +9,7 @@ Support Bluetooth & USB double modes.
 
 ## Features
 
-- Uses nRF52840 CoreBoard_Micro
+- Uses nRF52840 CoreBoard_Micro.
 - This keyboard uses the "Gateron low profile" switch.
 - With 89 WS2812 RGB lights.
 
